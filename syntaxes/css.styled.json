@@ -1100,12 +1100,8 @@
               "include": "#interpolation"
             },
             {
-              "match": "(?i)[+-]?(\\d+n?|n)(\\s*[+-]\\s*\\d+)?",
+              "match": "\\d+",
               "name": "constant.numeric.css"
-            },
-            {
-              "match": "(?i)even|odd",
-              "name": "support.constant.parity.css"
             },
             {
               "match": "(?<=\\d)n\\b|\\b(n|even|odd)\\b",

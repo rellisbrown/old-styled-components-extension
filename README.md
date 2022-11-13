@@ -4,7 +4,7 @@
 
 Syntax highlighting and IntelliSense for [styled-components](https://github.com/styled-components/styled-components).
 
-![Syntax highlighting in action](https://github.com/styled-components/vscode-styled-components/raw/HEAD/demo.gif)
+![Syntax highlighting in action](demo.gif)
 
 Uses a CSS grammar built on top of [language-sass](https://github.com/atom/language-sass) and [language-css](https://github.com/atom/language-css).
 
@@ -37,7 +37,7 @@ Issues with the most votes tend to be prioritised.
 
 ## Contributing
 
-see [Contributing](https://github.com/styled-components/vscode-styled-components/blob/HEAD/./CONTRIBUTING.md)
+see [Contributing](./CONTRIBUTING.md)
 
 ## Troubleshooting
 
